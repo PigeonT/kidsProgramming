@@ -1,2 +1,0 @@
-# kidsProgramming
-KidProgramming Website 
