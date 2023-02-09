@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b5ce76d-2d04-4654-9fac-177f9d2cde09" name="Changes" comment="" />
+    <list default="true" id="4b5ce76d-2d04-4654-9fac-177f9d2cde09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docker-commands.tx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +50,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675980877799</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Freelancer theme">
+      <created>1675980978933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980978933</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Freelancer theme">
+      <created>1675981089821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981089821</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docker commands">
+      <created>1675981174836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981174836</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Freelancer theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Freelancer theme" />
+    <MESSAGE value="docker commands" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker commands" />
   </component>
 </project>
