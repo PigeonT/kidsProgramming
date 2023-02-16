@@ -10,17 +10,20 @@
     </button>
     <ul class="slides-container" id="slides-container">
         <li class="slide">
-            <img src="img/portfolio/kids/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <video width="600" controls preload playsinline autoplay muted loop>
+                <source src="img/portfolio/kids/elevator.mp4" type="video/mp4">
+            </video>
         </li>
         <li class="slide">
-            <img src="img/portfolio/kids/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-        </li>
+            <video width="600" controls preload playsinline autoplay muted loop>
+                <source src="img/portfolio/kids/rpg.mp4" type="video/mp4">
+            </video>        </li>
         <li class="slide">
-            <img src="img/portfolio/kids/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <img src="img/portfolio/kids/ghibli.png" class="img-responsive img-centered" alt="{{ post.alt }}">
         </li>
-        <li class="slide">
-            <img src="img/portfolio/kids/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-        </li>
+<!--        <li class="slide">-->
+<!--            <img src="img/portfolio/kids/scratch.png"  width="700" height="500" class="img-responsive img-centered" alt="{{ post.alt }}">-->
+<!--        </li>-->
     </ul>
 </section>
 <style>
@@ -113,6 +116,7 @@
 
 
 
+
 </style>
 <script>
 const slidesContainer = document.getElementById("slides-container");
@@ -129,6 +133,7 @@ prevButton.addEventListener("click", () => {
   const slideWidth = slide.clientWidth;
   slidesContainer.scrollLeft -= slideWidth;
 });
+
 
 
 

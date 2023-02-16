@@ -1,17 +1,9 @@
 ---
-title: kids
 layout: default
-
-modal-id: 22
-
+modal-id: 1
 date: 2014-07-18
-
 img: kids1.png
-
 video: elevator.mov
-
 alt: image-alt
-
-description: sa1111111dasdasda sadasdasda ue. Nam.
-
+description: sadasdasda sadasdasda ue. Nam.
 ---
