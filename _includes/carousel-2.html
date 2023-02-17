@@ -2,28 +2,21 @@
 <!--    -->
 <!--</div>-->
 <section class="slider-wrapper">
-    <button class="slide-arrow" id="slide-arrow-prev">
+    <button class="slide-arrow" id="slide-arrow-prev2">
         &#8249;
     </button>
-    <button class="slide-arrow" id="slide-arrow-next">
+    <button class="slide-arrow" id="slide-arrow-next2">
         &#8250;
     </button>
-    <ul class="slides-container" id="slides-container">
+    <ul class="slides-container" id="slides-container2">
         <li class="slide">
             <video width="600" controls preload playsinline autoplay muted loop>
-                <source src="img/portfolio/kids/elevator.mp4" type="video/mp4">
+                <source src="img/portfolio/teenager.mp4" type="video/mp4">
             </video>
         </li>
         <li class="slide">
-            <video width="600" controls preload playsinline autoplay muted loop>
-                <source src="img/portfolio/kids/rpg.mp4" type="video/mp4">
-            </video>        </li>
-        <li class="slide">
-            <img src="img/portfolio/kids/ghibli.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <img src="img/portfolio/ghibli.png" class="img-responsive img-centered" alt="{{ post.alt }}">
         </li>
-<!--        <li class="slide">-->
-<!--            <img src="img/portfolio/kids/scratch.png"  width="700" height="500" class="img-responsive img-centered" alt="{{ post.alt }}">-->
-<!--        </li>-->
     </ul>
 </section>
 <style>
@@ -76,13 +69,13 @@
   opacity: 1;
 }
 
-#slide-arrow-prev {
+#slide-arrow-prev2 {
   left: 0;
   padding-left: 0.25rem;
   border-radius: 0 2rem 2rem 0;
 }
 
-#slide-arrow-next {
+#slide-arrow-next2 {
   right: 0;
   padding-left: 0.75rem;
   border-radius: 2rem 0 0 2rem;
@@ -113,43 +106,22 @@
 
 
 
-
-
-
-
 </style>
 <script>
-const slidesContainer = document.getElementById("slides-container");
-const slide = document.querySelector(".slide");
-const prevButton = document.getElementById("slide-arrow-prev");
-const nextButton = document.getElementById("slide-arrow-next");
+const slidesContainer2 = document.getElementById("slides-container2");
+const slide2 = document.querySelector("#slides-container2 .slide");
+const prevButton2 = document.getElementById("slide-arrow-prev2");
+const nextButton2 = document.getElementById("slide-arrow-next2");
 
-nextButton.addEventListener("click", () => {
-  const slideWidth = slide.clientWidth;
-  slidesContainer.scrollLeft += slideWidth;
+nextButton2.addEventListener("click", () => {
+  const slideWidth = slide2.clientWidth;
+  slidesContainer2.scrollLeft += slideWidth;
 });
 
-prevButton.addEventListener("click", () => {
-  const slideWidth = slide.clientWidth;
-  slidesContainer.scrollLeft -= slideWidth;
+prevButton2.addEventListener("click", () => {
+  const slideWidth = slide2.clientWidth;
+  slidesContainer2.scrollLeft -= slideWidth;
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

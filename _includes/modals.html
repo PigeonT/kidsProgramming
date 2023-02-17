@@ -17,7 +17,13 @@
 
                         <h2>{{ post.title }}</h2>
                         <div>
-                            {% include carousel.html %}
+                            {% if post.modal-id == 1 %}
+                                 {% include carousel-1.html %}
+                            {% elsif post.modal-id == 2 %}
+                                 {% include carousel-2.html %}
+                            {% elsif post.modal-id == 3 %}
+                                {% include carousel-3.html %}
+                            {% endif %}
 
                         </div>
                         <hr class="star-primary">

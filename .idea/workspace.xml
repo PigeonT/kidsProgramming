@@ -2,37 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b5ce76d-2d04-4654-9fac-177f9d2cde09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/kids.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/kids/elevator.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/kids/ghibli.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/kids/rpg.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/kids/scratch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/carousel-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/carousel-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/img/portfolio/kids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/img/portfolio/teenager.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/img/portfolio/teenager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/img/portfolio/websites.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/elevator.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/ghibli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/kids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/rpg.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/scratch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/teenager.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/teenager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/websites.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/carousel-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/modals.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/modals.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kids.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/cabin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/cake.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/circus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/game.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/kids1.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/portfolio/kids/kids1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/safe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/submarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/cabin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/cake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/circus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/elevator.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/ghibli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/kids1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/rpg.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/safe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/scratch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/portfolio/kids/submarine.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/contact_me.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/js/contact_me.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/contact_me_static.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/js/contact_me_static.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/freelancer.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/js/freelancer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/jquery-1.11.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/js/jquery-1.11.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/mail/contact_me.php" beforeDir="false" afterPath="$PROJECT_DIR$/_site/mail/contact_me.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/cabin.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/kids/cabin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/cake.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/kids/cake.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/circus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/kids/circus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/game.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/kids/game.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/kids1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/kids/kids1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/safe.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/kids/safe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/submarine.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/kids/submarine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/cabin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/cake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/circus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/elevator.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/portfolio/elevator.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/ghibli.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/portfolio/ghibli.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/kids1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/rpg.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/portfolio/rpg.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/safe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/portfolio/scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/kids/submarine.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +71,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/liamhu/Documents/projects/kidsProgramming/kidsProgramming/_posts&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/liamhu/Documents/projects/kidsProgramming/kidsProgramming/_includes"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/img/portfolio" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/img/portfolio/kids" />
-      <recent name="$PROJECT_DIR$/_includes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/portfolio" />
       <recent name="$PROJECT_DIR$/img/portfolio/kids" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -123,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676240710333</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="WIP: Web">
+      <created>1676558248325</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558248325</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

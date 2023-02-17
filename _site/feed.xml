@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-16T14:36:03+00:00</updated>
+  <updated>2023-02-17T15:16:09+00:00</updated>
   <id>http://0.0.0.0:4000/</id>
 
   
@@ -20,8 +20,8 @@
   
   
     <entry>
-      <title type="html">kids</title>
-      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="kids" />
+      <title type="html">Kids Programming &amp;lt;/br&amp;gt;(6 - 10 Years old)</title>
+      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="Kids Programming &lt;/br&gt;(6 - 10 Years old)" />
       <published>2014-07-18T00:00:00+00:00</published>
       <updated>2014-07-18T00:00:00+00:00</updated>
       <id>http://0.0.0.0:4000/project-1</id>
@@ -52,8 +52,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">Teenager Programming &amp;lt;/br&amp;gt;(10 - 14 Years old)</title>
+      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="Teenager Programming &lt;/br&gt;(10 - 14 Years old)" />
       <published>2014-07-17T00:00:00+00:00</published>
       <updated>2014-07-17T00:00:00+00:00</updated>
       <id>http://0.0.0.0:4000/project-2</id>
@@ -72,8 +72,6 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
@@ -86,10 +84,10 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="Project 3" />
-      <published>2014-07-16T00:00:00+00:00</published>
-      <updated>2014-07-16T00:00:00+00:00</updated>
+      <title type="html">Project based leaning &amp;lt;/br&amp;gt;</title>
+      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="Project based leaning &lt;/br&gt;" />
+      <published>2014-07-17T00:00:00+00:00</published>
+      <updated>2014-07-17T00:00:00+00:00</updated>
       <id>http://0.0.0.0:4000/project-3</id>
       <content type="html" xml:base="http://0.0.0.0:4000/"></content>
 
@@ -105,8 +103,6 @@
         
       </author>
 
-      
-        <category term="Web Development" />
       
 
       

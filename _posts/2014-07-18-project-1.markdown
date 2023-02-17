@@ -1,17 +1,10 @@
 ---
-title: kids
+title: Kids Programming </br>(6 - 10 Years old)
 layout: default
-
-modal-id: 22
-
+modal-id: 1
 date: 2014-07-18
-
-img: kids1.png
-
-video: elevator.mov
-
-alt: image-alt
-
-description: sa1111111dasdasda sadasdasda ue. Nam.
-
+img: kids.png
+video: elevator.mp4
+alt: image-kids.png
+description: We bring kids to fantastic programming world with <b>Scratch</b>, which is developed by MIT Media Lab. It consists of colored blocks, each representing a command. So you don't have to type every line yourself, the desired commands are simply dragged into the program.
 ---

@@ -1,25 +1,41 @@
 <!-- Portfolio Grid Section -->
 <section id="portfolio">
-  <div class="container portfolio-flex-grid">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>Portfolio</h2>
-        <hr class="star-primary">
-      </div>
-    </div>
-    <div class="portfolio-flex-row">
-      {% for post in site.posts %}
-      <div class="portfolio-flex-item portfolio-item">
-        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-          <div class="caption">
-            <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
+    <div class="container portfolio-flex-grid">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Portfolio</h2>
+                <hr class="star-primary">
             </div>
-          </div>
-          <img src="img/portfolio/kids/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-        </a>
-      </div>
-      {% endfor %}
+        </div>
+        <div class="portfolio-flex-row" style="display: flex !important;
+             justify-content: space-around !important;">
+            {% for post in site.posts %}
+            <div class="portfolio-flex-item portfolio-item">
+                <a href="#portfolioModal-{{ post.modal-id }}"
+                   class="portfolio-link"
+
+                   data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    {% if post.modal-id == 1 %}
+                    <video width="350" height="220" controls preload playsinline autoplay muted loop>
+                        <source src="img/portfolio/elevator.mp4" type="video/mp4">
+                    </video>
+                    {% elsif post.modal-id == 2 %}
+                    <video width="350" height="220" controls preload playsinline autoplay muted loop>
+                        <source src="img/portfolio/teenager.mp4" type="video/mp4">
+                    </video>
+                    {% elsif post.modal-id == 3 %}
+                    <video width="350" height="220" controls preload playsinline autoplay muted loop>
+                        <source src="img/portfolio/websites.mp4" type="video/mp4">
+                    </video>
+                    {% endif %}
+                </a>
+            </div>
+            {% endfor %}
+        </div>
     </div>
-  </div>
 </section>

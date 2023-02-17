@@ -1,11 +1,9 @@
 ---
+title: Project based leaning </br>
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2014-07-17
+img: scratch.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: For a further deeper perspective for programming, we will focus on a real world programming language - <b>Javascript</b>, which could be widely used for Web/Game/Mobile App and more.  After the fundamental language knowledge it should be a relative good understanding for creativity with programming for all possible successful projects.
 ---
