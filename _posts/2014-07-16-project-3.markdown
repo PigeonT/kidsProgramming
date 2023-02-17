@@ -5,6 +5,5 @@ modal-id: 3
 date: 2014-07-17
 img: scratch.png
 alt: image-alt
-description: We will provide basic languages concepts based on children ages. After quick learning phase, we will direct
-guide the children to build self creative projects using newly learned language.
+description: We will provide basic languages concepts based on children ages. After quick learning phase, we will direct guide the children to build self creative projects using newly learned language.
 ---
