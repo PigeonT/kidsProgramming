@@ -5,5 +5,6 @@ modal-id: 3
 date: 2014-07-17
 img: scratch.png
 alt: image-alt
-description: For a further deeper perspective for programming, we will focus on a real world programming language - <b>Javascript</b>, which could be widely used for Web/Game/Mobile App and more.  After the fundamental language knowledge it should be a relative good understanding for creativity with programming for all possible successful projects.
+description: We will provide basic languages concepts based on children ages. After quick learning phase, we will direct
+guide the children to build self creative projects using newly learned language.
 ---
