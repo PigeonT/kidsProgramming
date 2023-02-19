@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b5ce76d-2d04-4654-9fac-177f9d2cde09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/css/mobile-responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/contact_me.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/js/contact_me.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/contact_me_static.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/js/contact_me_static.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/freelancer.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/js/freelancer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/jquery-1.11.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/js/jquery-1.11.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/mail/contact_me.php" beforeDir="false" afterPath="$PROJECT_DIR$/_site/mail/contact_me.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676646973916</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="WIP: Web">
+      <created>1676807297705</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676807297705</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
