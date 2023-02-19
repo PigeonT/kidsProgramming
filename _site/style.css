@@ -489,3 +489,27 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+
+
+@media only screen and (max-width: 750px) {
+  #about .container .row {
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  #web-nav {
+    position: fixed;
+    top: 0;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  #portfolio .container  .portfolio-flex-row {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
