@@ -262,7 +262,7 @@
           <div id="success"></div>
           <div class="row">
             <div class="form-group col-xs-12">
-              <button type="submit" class="btn btn-success btn-lg">Send</button>
+              <button type="button" class="btn btn-success btn-lg" onclick="submitForm()">Send</button>
             </div>
           </div>
         </form>
@@ -271,6 +271,16 @@
   </div>
 </section>
 
+<script>
+  function submitForm() {
+   // Get the first form with the name
+   // Hopefully there is only one, but there are more, select the correct index
+   var frm = document.getElementById('contactForm');
+   frm.submit(); // Submit
+   frm.reset();  // Reset
+   return false; // Prevent page refresh
+}
+</script>
   
 
   <!-- Footer -->

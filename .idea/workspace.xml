@@ -3,16 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4b5ce76d-2d04-4654-9fac-177f9d2cde09" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/carousel-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/carousel-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/carousel-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/carousel-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/carousel-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/carousel-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/contact_static.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact_static.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/css/mobile-responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/mobile-responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676838713737</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="WIP: Web">
+      <created>1676840750984</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676840750984</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
