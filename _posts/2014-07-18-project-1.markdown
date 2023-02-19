@@ -1,5 +1,5 @@
 ---
-title: Kids Programming </br>(6 - 10 Years old)
+title: Kids Coding </br>(6 - 10 Years old)
 layout: default
 modal-id: 1
 date: 2014-07-18

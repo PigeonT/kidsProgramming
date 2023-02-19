@@ -8,6 +8,7 @@
     <button class="slide-arrow" id="slide-arrow-next">
         &#8250;
     </button>
+    <p id="swip-to-side">Swip to left or right </p>
     <ul class="slides-container" id="slides-container">
         <li class="slide">
             <video width="600" controls preload playsinline autoplay muted loop>
@@ -119,6 +120,7 @@ const slidesContainer = document.getElementById("slides-container");
 const slide = document.querySelector(".slide");
 const prevButton = document.getElementById("slide-arrow-prev");
 const nextButton = document.getElementById("slide-arrow-next");
+
 
 nextButton.addEventListener("click", () => {
   const slideWidth = slide.clientWidth;

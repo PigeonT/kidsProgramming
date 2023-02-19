@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-19T20:31:14+00:00</updated>
-  <id>http://0.0.0.0:4000/</id>
+  <link href="https://github.com/jeromelachaud/freelancer-theme/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" />
+  <updated>2023-02-19T21:05:39+00:00</updated>
+  <id>https://github.com/jeromelachaud/freelancer-theme/</id>
 
   
     <title type="html">Kids Coding Camp</title>
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">Kids Programming &amp;lt;/br&amp;gt;(6 - 10 Years old)</title>
-      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="Kids Programming &lt;/br&gt;(6 - 10 Years old)" />
+      <title type="html">Kids Coding &amp;lt;/br&amp;gt;(6 - 10 Years old)</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Kids Coding &lt;/br&gt;(6 - 10 Years old)" />
       <published>2014-07-18T00:00:00+00:00</published>
       <updated>2014-07-18T00:00:00+00:00</updated>
-      <id>http://0.0.0.0:4000/project-1</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/"></content>
+      <id>https://github.com/jeromelachaud/freelancer-theme/project-1</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
 
       
       
@@ -52,12 +52,12 @@
     </entry>
   
     <entry>
-      <title type="html">Teenager Programming &amp;lt;/br&amp;gt;(10 - 14 Years old)</title>
-      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="Teenager Programming &lt;/br&gt;(10 - 14 Years old)" />
+      <title type="html">Teenager Coding &amp;lt;/br&amp;gt;(10 - 14 Years old)</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Teenager Coding &lt;/br&gt;(10 - 14 Years old)" />
       <published>2014-07-17T00:00:00+00:00</published>
       <updated>2014-07-17T00:00:00+00:00</updated>
-      <id>http://0.0.0.0:4000/project-2</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/"></content>
+      <id>https://github.com/jeromelachaud/freelancer-theme/project-2</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
 
       
       
@@ -85,11 +85,11 @@
   
     <entry>
       <title type="html">Project based leaning &amp;lt;/br&amp;gt;</title>
-      <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" title="Project based leaning &lt;/br&gt;" />
+      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project based leaning &lt;/br&gt;" />
       <published>2014-07-17T00:00:00+00:00</published>
       <updated>2014-07-17T00:00:00+00:00</updated>
-      <id>http://0.0.0.0:4000/project-3</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/"></content>
+      <id>https://github.com/jeromelachaud/freelancer-theme/project-3</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
 
       
       
