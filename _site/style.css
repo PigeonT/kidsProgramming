@@ -500,7 +500,7 @@ footer .footer-below {
 }
 
 @media only screen and (min-width: 450px) {
-    #swip-to-side {
+    #swipe-to-side {
         display: none !important;
     }
 }

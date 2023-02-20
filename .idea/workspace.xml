@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b5ce76d-2d04-4654-9fac-177f9d2cde09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/carousel-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/carousel-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/carousel-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/carousel-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/mobile-responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/mobile-responsive.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676900151074</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="HOTFIX: KidsProgramming Beta">
+      <created>1676904031015</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676904031015</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +209,7 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="WIP: Web" />
     <MESSAGE value="KidsProgramming Beta" />
-    <option name="LAST_COMMIT_MESSAGE" value="KidsProgramming Beta" />
+    <MESSAGE value="HOTFIX: KidsProgramming Beta" />
+    <option name="LAST_COMMIT_MESSAGE" value="HOTFIX: KidsProgramming Beta" />
   </component>
 </project>
